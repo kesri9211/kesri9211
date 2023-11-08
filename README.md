@@ -6,9 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kesri9211&label=Profile%20views&color=0e75b6&style=flat" alt="kesri9211" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Kesri</h1>
-<h3 align="center">A passionate Developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kesri9211&label=Profile%20views&color=0e75b6&style=flat" alt="kesri9211" /> </p>
 
 - 🌱 I’m currently learning **DSA and Web Development**
