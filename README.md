@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kesri9211&label=Profile%20views&color=0e75b6&style=flat" alt="kesri9211" /> </p>
 
 
-- 🌱 I’m currently learning **DSA and Web Development**
+- 🌱 I’m currently learning **DSA and React JS**
 
 - 👨‍💻 All of my projects are available at [link](link)
 
