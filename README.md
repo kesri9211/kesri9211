@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kns9839@gmail.com**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1-8dSM0JEJ2DqnrLLvA2VXr1Ikvk4smjM/edit]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
