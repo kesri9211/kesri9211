@@ -1,4 +1,4 @@
- <img align="center" width="90%"  src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" alt="keri9211" /> </p>
+ <img align="center" width="100%" height="10%" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" alt="keri9211" /> </p>
 
 <h1 align="center">Hi 👋, I'm Kesri</h1>
 <h3 align="center">A passionate Developer from India</h3>
