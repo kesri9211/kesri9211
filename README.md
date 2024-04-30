@@ -1,4 +1,4 @@
- <img src="https://i.gifer.com/F9Jr.gif" alt="keri9211" /> </p>
+ <img width="100%" src="https://i.gifer.com/F9Jr.gif" alt="keri9211" /> </p>
 
 <h1 align="center">Hi 👋, I'm Kesri</h1>
 <h3 align="center">A passionate Developer from India</h3>
