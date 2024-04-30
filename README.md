@@ -1,5 +1,5 @@
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-<p align="left"> <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="keri9211" /> </p>
+<p align="left"> <img src="" alt="keri9211" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Kesri</h1>
