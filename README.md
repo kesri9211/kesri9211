@@ -1,10 +1,9 @@
-<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-<p align="left"> <img src="" alt="keri9211" /> </p>
-
 
 <h1 align="center">Hi 👋, I'm Kesri</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<p align="left"> <img src="" alt="keri9211" /> </p>
 
 - 🌱 I’m currently learning **DSA and React JS**
 
