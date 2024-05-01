@@ -1,4 +1,4 @@
- <img align="center" width="50%" height="10%" src="https://assets-global.website-files.com/5e39e095596498a8b9624af1/5e39fc36cf358e63cda4ee42__ghi4DjLw8IYly-7R6Le_GAsnza3Sq0hUL4GrDaYWNb1uWQhdPhkSg4keZaXMyyfppUgmDTa055iXBib8UMrX0D2lVRsrk8CmNNi9sA0LFulT2SXas0D_4HNrVSl2dUZgfCuPIie.gif" alt="keri9211" /> </p>
+ <img align-item="center" width="50%" margin-left="30px" height="10%" src="https://assets-global.website-files.com/5e39e095596498a8b9624af1/5e39fc36cf358e63cda4ee42__ghi4DjLw8IYly-7R6Le_GAsnza3Sq0hUL4GrDaYWNb1uWQhdPhkSg4keZaXMyyfppUgmDTa055iXBib8UMrX0D2lVRsrk8CmNNi9sA0LFulT2SXas0D_4HNrVSl2dUZgfCuPIie.gif" alt="keri9211" /> </p>
 
 <h1 align="center">Hi 👋, I'm Kesri</h1>
 <h3 align="center">A passionate Developer from India</h3>
