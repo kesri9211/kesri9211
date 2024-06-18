@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kns9839@gmail.com**
 
-- 📄 Resume [link]
+- 📄 Resume [link](https://docs.google.com/document/d/11VqYgJi9imTwqoXwWurJups-onGfiG0l/edit?usp=sharing&ouid=111811731099157363929&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
