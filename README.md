@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **kns9839@gmail.com**
 
-- 📄 Resume [link](https://docs.google.com/document/d/11VqYgJi9imTwqoXwWurJups-onGfiG0l/edit?usp=sharing&ouid=111811731099157363929&rtpof=true&sd=true)
-
+- 📄 Resume [link](https://docs.google.com/document/d/1a8ac68zC873jP1wttyoglvz5oazIvh4P5fd9n0Hkp7o/edit?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kesri n. shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kesri n. shukla" height="30" width="40" /></a>
